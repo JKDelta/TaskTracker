@@ -1,0 +1,14 @@
+c:\Users\veso\Desktop\C#\MyApp\bin\Debug\net9.0\MyApp.exe
+C:\Users\veso\Desktop\C#\MyApp\bin\Debug\net9.0\MyApp.deps.json
+C:\Users\veso\Desktop\C#\MyApp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+c:\Users\veso\Desktop\C#\MyApp\bin\Debug\net9.0\MyApp.dll
+c:\Users\veso\Desktop\C#\MyApp\bin\Debug\net9.0\MyApp.pdb
+c:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+c:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+c:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+c:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\MyApp.dll
+c:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+c:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\MyApp.pdb
+C:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+C:\Users\veso\Desktop\C#\MyApp\obj\Debug\net9.0\ref\MyApp.dll
